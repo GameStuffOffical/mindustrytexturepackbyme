@@ -1,4 +1,4 @@
-name dirt:
+name: dirt
 description: the dirtiest thing ever
 alwaysUnlocked: true
 flamability: 0
