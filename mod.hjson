@@ -1,7 +1,7 @@
-name: A mod
-displayName: A A Mod
+name: fleshdustry
+displayName: Fleshdustry
 author: GameStuff
-description: Beans
+description: Makes everything into flesh monsters.
 version: "1.0"
 minGameVersion: "126.2"
 "hidden": "true"
