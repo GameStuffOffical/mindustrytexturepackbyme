@@ -4,3 +4,4 @@ author: GameStuff
 description: Beans
 version: "1.0"
 minGameVersion: "126.2"
+"hidden": "true"
